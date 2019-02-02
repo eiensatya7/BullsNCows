@@ -1,2 +1,0 @@
-# BullsNCows
-A cpp game
